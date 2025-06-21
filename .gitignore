@@ -1,0 +1,7 @@
+.vscode/
+.env
+.streamlit/
+streamlit-storage/
+/__pycache__/
+/real_estate_tool_venv/
+/resources/vectorstore/
